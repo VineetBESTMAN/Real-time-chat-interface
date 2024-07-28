@@ -3,10 +3,10 @@
 
 
 
-![login page](")![Screenshot 2024-07-29 034021](https://github.com/user-attachments/assets/f5350ab0-f0cc-474a-ba61-f5f8a2e98830)
+![]()![Screenshot 2024-07-29 034021](https://github.com/user-attachments/assets/f5350ab0-f0cc-474a-ba61-f5f8a2e98830)
 
 
-![chat page]()![Screenshot 2024-07-29 034307](https://github.com/user-attachments/assets/c1f83ed0-da0a-45ce-b330-f16767cc1d54)
+![]()![Screenshot 2024-07-29 034307](https://github.com/user-attachments/assets/c1f83ed0-da0a-45ce-b330-f16767cc1d54)
 
 
 ## Installation Guide
@@ -20,8 +20,8 @@ Both should be installed and make sure mongodb is running.
 
 #### First Method
 ```shell
-git clone https://github.com/koolkishan/chat-app-react-nodejs
-cd chat-app-react-nodejs
+git clone https://github.com/VineetBESTMAN/Real-time-chat-interface/tree/main
+cd real-time-chat-interface-nodejs
 ```
 Now rename env files from .env.example to .env
 ```shell
